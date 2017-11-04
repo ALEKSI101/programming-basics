@@ -14,6 +14,7 @@ namespace toistorakenne_jatkuu_5
 
 
             Console.WriteLine("Ohjelma tulostaa vakioveikkauksen rivin. ");
+<<<<<<< HEAD
 
 
             double luku;
@@ -47,5 +48,30 @@ namespace toistorakenne_jatkuu_5
 
             Console.ReadKey();
         }
+=======
+            
+
+            double numx;
+            numx = rnd.NextDouble();
+
+            if (numx <= 0.4)
+            {
+                Console.WriteLine(" 1 ");
+            }
+            else if (numx < 0.6)
+            {
+                Console.WriteLine(" X ");
+            }
+            else Console.WriteLine(" 2 ");
+
+            for (= 13;  ++)
+               
+            
+            Console.ReadKey();
+
+        }  
+                               
+        
+>>>>>>> 9b2d0f650032bea87f088a3b888334103c356e00
     }
 }

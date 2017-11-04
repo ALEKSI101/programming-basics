@@ -4,7 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
     <ProjectGuid>{CF22E6CC-B5A9-48E5-843E-AE1FB418F172}</ProjectGuid>
+=======
+    <ProjectGuid>{982AAFC9-BE08-4CC2-9782-C2EFF3C0CE8B}</ProjectGuid>
+>>>>>>> 9b2d0f650032bea87f088a3b888334103c356e00
     <OutputType>Exe</OutputType>
     <RootNamespace>toistorakenne_jatkuu_5</RootNamespace>
     <AssemblyName>toistorakenne-jatkuu-5</AssemblyName>
